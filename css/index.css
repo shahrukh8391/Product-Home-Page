@@ -1,0 +1,228 @@
+#logo
+{
+    margin-top: 1.3cm;
+    margin-left: 2cm;
+}
+
+.nav-items
+{
+    margin-left: 11.5cm;
+    margin-top: -1cm;
+}
+
+.nav-items h5
+{
+    display: inline;
+    margin-left: 2cm;
+    font-size: larger;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.nav-item_active-item:hover
+{
+    font-family: 'Fredoka One';
+    color: #FE5E35;
+    font-size: 0.6cm;
+}
+
+
+#actions
+{
+    float: right;
+    margin-top: -1.2cm;
+}
+
+.intro-section > .left-section
+{
+    margin-left: 2cm;
+    margin-top: 2cm;
+    margin-right: 16cm;
+}
+
+.intro-section > .left-section h3
+{
+    margin-bottom: -1cm;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-size: 1cm;
+}
+
+.intro-section > .left-section > .action-btns > .action-btn
+{
+    background-color: #FE5E35;
+    margin-top: 15px;
+    margin-left: 0.6cm;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    border-radius: 35px;
+    border: none;
+    color: whitesmoke;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-size: 0.5cm;
+}
+
+.intro-section > .left-section h1
+{
+    font-family: 'Fredoka One';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/fredokaone/v13/k3kUo8kEI-tA1RRcTZGmTlHGCac.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-size: 2cm;
+}
+
+.intro-section > .left-section > .sub-headlines >.sub-headline img
+{
+    margin-right: 10px;
+    margin-bottom: -8px;
+    background-color:  #FE5E35;
+    border-radius: 1cm;
+    padding: 5px;
+}
+
+.intro-section > .left-section > .sub-headlines h5
+{
+    margin-left: 2.2cm;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 550;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-size: 0.6cm;
+    margin-top: -10px;
+}
+
+.intro-section > .left-section > p
+{
+    color: gray;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 14px;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJnecmNE.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+.right-section > .headphone-div > .headphone
+{
+    height: 12cm;
+    float: left;
+    margin-top: -16cm;
+    margin-left: 22.5cm;
+    padding: auto;
+}
+
+.right-section > .headphone-div > .discount
+{
+    height: 3.5cm;
+    float: right;
+    margin-top:-9cm;
+    margin-right: 12.9cm;
+    position: relative;
+}
+
+.right-section > .headphone-div > .discount-content h4
+{
+    float: right;
+    margin-right: 13.9cm;
+    margin-top: -8.2cm;
+    position: relative;
+    color: whitesmoke;
+    font-family: 'Fredoka One';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/fredokaone/v13/k3kUo8kEI-tA1RRcTZGmTlHGCac.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-size:13px;
+}
+
+.right-section > .headphone-div > .discount-content h1
+{
+    float: right;
+    margin-right: 13.4cm;
+    margin-top: -7.9cm;
+    position: relative;
+    color: whitesmoke;
+    font-size: 1.2cm;
+    font-family: 'Fredoka One';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/fredokaone/v13/k3kUo8kEI-tA1RRcTZGmTlHGCac.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+.dots
+{
+    float: right;
+    margin-right: 7.8cm;
+    margin-top: -3cm;
+}
+
+.yellow-dot
+{
+  height: 25px;
+  width: 25px;
+  background-color:hsl(58, 90%, 49%);
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 0.8cm;
+}
+
+.tomato-dot
+{
+  height: 25px;
+  width: 25px;
+  background-color:tomato;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.black-dot
+{
+  height: 25px;
+  width: 25px;
+  background-color:black;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 0.8cm;
+}
+
+.action-btn1
+{
+    float: right;
+    background-color: #FE5E35;
+    margin-top: -55px;
+    margin-right: 7.5cm;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    border-radius: 35px;
+    border: none;
+    color: whitesmoke;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-size: 0.5cm;
+}
